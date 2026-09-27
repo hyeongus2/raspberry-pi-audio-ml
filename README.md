@@ -1,6 +1,6 @@
 # Raspberry Pi 음성 처리와 TinyML
 
-2026년 봄 EE305에서 I2S 오디오 입력을 분석하고, wake-word 모델과 파형 근사 모델을 학습해 TFLite로 변환했습니다. 신호 처리부터 양자화·실시간 추론까지 이어지는 임베디드 ML 실습입니다.
+2026년 봄 전자설계실험 입문(Introduction to Electronics Design Lab, EE305)에서 I2S 오디오 입력을 분석하고, wake-word 모델과 파형 근사 모델을 학습해 TFLite로 변환했습니다. 신호 처리부터 양자화·실시간 추론까지 이어지는 임베디드 ML 실습입니다.
 
 ## 구현
 
