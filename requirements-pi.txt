@@ -1,0 +1,8 @@
+numpy
+scipy
+python_speech_features
+pyaudio
+tflite-runtime
+plotext
+matplotlib
+librosa
