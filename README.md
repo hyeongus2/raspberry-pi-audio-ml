@@ -14,6 +14,10 @@
 
 `streamWord_spring26.py`는 수업 제공 코드를 기반으로 합니다. `wake-word/models/`에는 학습한 baseline/augmented 모델이 있고, `tinyml-waveforms/*.tflite`에는 파형 근사 모델이 있습니다. Streaming 실행에 필요한 모델은 별도로 준비합니다.
 
+## 보고서
+
+[실험 보고서 3개 전체 보기](reports/README.md) — 과목별 구현 과정, 실험 그래프와 분석을 PDF로 정리했습니다.
+
 ## 환경과 실행
 
 Raspberry Pi Linux, I2S `voicehat` 입력 48 kHz, 모델 입력 16 kHz, 1.25초 오디오 창을 사용합니다. 장치와 Python 버전에 호환되는 TFLite runtime을 설치합니다.
